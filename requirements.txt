@@ -1,4 +1,3 @@
-TTS
 cython
 scipy
 soundfile
