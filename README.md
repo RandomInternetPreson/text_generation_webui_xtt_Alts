@@ -8,10 +8,6 @@ This tooke about 3 seconds to render on a 4090
 
 https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/6488699/a455b6ff-a6c4-41a0-abed-65f37bf6dd90
 
-
-# Disclaimer
-This is a very crude extension i threw together quickly based on the [barktts](https://github.com/RandomInternetPreson/) extension. It may or may not work. Feel free to improve the code and submit a PR.
-
 # Installation (Windows)
 Clone this repo with git or clone using the text-generation-webui software:
 ```
