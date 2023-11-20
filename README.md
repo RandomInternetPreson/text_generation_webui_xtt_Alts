@@ -8,6 +8,9 @@ This tooke about 3 seconds to render on a 4090
 https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/6488699/a455b6ff-a6c4-41a0-abed-65f37bf6dd90
 
 # Installation (Windows)
+
+https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/6488699/30185557-d9ec-431d-bf56-20ffbaa0bd31
+
 Clone this repo with git or clone using the text-generation-webui software:
 ```
 git clone https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts
