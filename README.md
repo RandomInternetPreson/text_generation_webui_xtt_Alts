@@ -1,6 +1,14 @@
 # XTTSv2 for text-generation-webui (WINDOWS)
 This is a simple extension for [text-generation-webui](https://github.com/oobabooga/text-generation-webui/) that enables multilingual TTS, with voice cloning using XTTSv2 from [coqui-ai/TTS](https://github.com/coqui-ai/TTS).
 
+# Example
+This tooke about 3 seconds to render on a 4090
+![ouput](https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/6488699/19661564-4d6b-4906-9334-b5b83c91681d)
+
+
+https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/6488699/a455b6ff-a6c4-41a0-abed-65f37bf6dd90
+
+
 # Disclaimer
 This is a very crude extension i threw together quickly based on the [barktts](https://github.com/RandomInternetPreson/) extension. It may or may not work. Feel free to improve the code and submit a PR.
 
