@@ -27,8 +27,8 @@ Via the command window that has now popped up, navitate to the text_generation_w
 
 cd your-directory-here
 
-cd means change directory, and your directory will look something like this: L:\OobNov19\text-generation-webui-main
-so you would put "cd L:\OobNov19\text-generation-webui-main" in the command window (without the quotes)
+cd means change directory, and your directory will look something like this: L:\OobNov13\text-generation-webui-main\extensions\text_generation_webui_xtt
+so you would put "cd L:\OobNov13\text-generation-webui-main\extensions\text_generation_webui_xtt" in the command window (without the quotes)
 
 Once you have navigated to the install directory for the extension from the perspective of the command window enter the following:
 
