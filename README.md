@@ -4,6 +4,37 @@ This is a simple extension for [text-generation-webui](https://github.com/oobabo
 # Disclaimer
 This is a very crude extension i threw together quickly based on the [barktts](https://github.com/RandomInternetPreson/) extension. It may or may not work. Feel free to improve the code and submit a PR.
 
+# Installation (Windows)
+Clone this repo with git or clone using the text-generation-webui software:
+```
+git clone https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts
+or just enter the url in the "Install or update an extension" window in the "Session" tab (remember to press enter):
+https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts
+```
+Activate your environment.
+```
+Go to the install folder where you unzipped the one-click installer, and click on cmd_windows.bat
+```
+Install dependencies for TTS.
+```
+Via the command window that has now popped up, navitate to the text_generation_webui_xtt_Alts extension in the "extensions" folder in the textgen install directory.  To do this enter:
+
+cd your-directory-here
+
+cd means change directory, and your directory will look something like this: L:\OobNov19\text-generation-webui-main
+so you would put "cd L:\OobNov19\text-generation-webui-main" in the command window (without the quotes)
+
+Once you have navigated to the install directory for the extension from the perspective of the command window enter the following:
+
+pip install -r requirements.txt
+```
+Install TTS. Their version requirements cause issues so we install the dependencies above, without version requirements.
+```
+With the command window still open (reopen it if you have closed it) enter the text below:
+pip install TTS --no-dependencies
+```
+
+
 # Installation
 Clone this repo:
 ```
