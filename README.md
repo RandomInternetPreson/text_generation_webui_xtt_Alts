@@ -13,9 +13,9 @@ https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/64
 
 Clone this repo with git or clone using the text-generation-webui software:
 ```
-git clone https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts
+git clone https://github.com/kanttouchthis/text_generation_webui_xtts
 or just enter the url in the "Install or update an extension" window in the "Session" tab (remember to press enter):
-https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts
+https://github.com/kanttouchthis/text_generation_webui_xtts
 ```
 Activate your environment.
 ```
@@ -23,7 +23,7 @@ Go to the install folder where you unzipped the one-click installer, and click o
 ```
 Install dependencies for TTS.
 ```
-Via the command window that has now popped up, navitate to the text_generation_webui_xtt_Alts extension in the "extensions" folder in the textgen install directory.  To do this enter:
+Via the command window that has now popped up, navitate to the text_generation_webui_xtt extension in the "extensions" folder in the textgen install directory.  To do this enter:
 
 cd your-directory-here
 
