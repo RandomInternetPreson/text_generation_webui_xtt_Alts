@@ -3,8 +3,7 @@ This is a simple extension for [text-generation-webui](https://github.com/oobabo
 
 # Example
 This tooke about 3 seconds to render on a 4090
-![ouput](https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/6488699/19661564-4d6b-4906-9334-b5b83c91681d)
-
+![ouput](https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/6488699/cbcf7952-93bb-4ec9-8540-53e38baf310a)
 
 https://github.com/RandomInternetPreson/text_generation_webui_xtt_Alts/assets/6488699/a455b6ff-a6c4-41a0-abed-65f37bf6dd90
 
