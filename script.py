@@ -9,7 +9,7 @@ import soundfile as sf
 import numpy as np
 from modules import shared
 
-streaming_state = shared.args.no_stream
+#streaming_state = shared.args.no_stream
 
 tts = None
 this_dir = os.path.dirname(os.path.abspath(__file__))
@@ -128,7 +128,7 @@ def tts_char(string):
     if params["show_text"]:
         string += f"<br>{ttstext}"
 
-    shared.args.no_stream = streaming_state
+    #shared.args.no_stream = streaming_state
     offload_model()
     return string
 
@@ -160,7 +160,7 @@ def tts_narrator(string):
     string = format_html(audiofiles)
     if params["show_text"]:
         string += f"<br>{ttstext}"
-    shared.args.no_stream = streaming_state
+    #shared.args.no_stream = streaming_state
     offload_model()
     return string
 
